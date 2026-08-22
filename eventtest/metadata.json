@@ -1,0 +1,23 @@
+{
+  "gallery_title": "Event2test",
+  "gallery_description": "test",
+  "last_updated": "2026-08-22T21:27:30Z",
+  "categories": [
+    "1"
+  ],
+  "images": [
+    {
+      "id": 3,
+      "file_hash": "9e1184f2",
+      "slot_index": 1,
+      "is_assigned": true,
+      "title": "1",
+      "photographer": "1",
+      "description": "1",
+      "category": "1",
+      "tags": [],
+      "date": "",
+      "sort_order": 1
+    }
+  ]
+}
