@@ -1,0 +1,21 @@
+{
+  "gallery_title": "Event TEST",
+  "gallery_description": "test",
+  "last_updated": "2026-08-22T20:59:55Z",
+  "categories": [
+    "1"
+  ],
+  "images": [
+    {
+      "id": 1,
+      "file_hash": "1a9fa55419b33f0c109a9ec5b1f2ca4981f08d998b1166ad828f3d6792299a42",
+      "title": "test",
+      "photographer": "1",
+      "description": "1",
+      "category": "1",
+      "tags": [],
+      "date": "",
+      "sort_order": 0
+    }
+  ]
+}
