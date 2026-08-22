@@ -1,7 +1,7 @@
 {
   "gallery_title": "GAllery riot",
   "gallery_description": "",
-  "last_updated": "2026-08-22T22:07:50Z",
+  "last_updated": "2026-08-22T22:14:58Z",
   "categories": [
     "test"
   ],
@@ -15,7 +15,9 @@
       "photographer": "",
       "description": "",
       "category": "test",
-      "tags": [],
+      "tags": [
+        "Display-1"
+      ],
       "date": "",
       "sort_order": 1
     },
@@ -28,7 +30,9 @@
       "photographer": "",
       "description": "",
       "category": "test",
-      "tags": [],
+      "tags": [
+        "Display-2"
+      ],
       "date": "",
       "sort_order": 2
     },
@@ -41,7 +45,9 @@
       "photographer": "",
       "description": "",
       "category": "test",
-      "tags": [],
+      "tags": [
+        "Display-3"
+      ],
       "date": "",
       "sort_order": 3
     }
