@@ -1,18 +1,18 @@
 {
   "gallery_title": "GAllery riot",
   "gallery_description": "",
-  "last_updated": "2026-08-22T22:14:58Z",
+  "last_updated": "2026-08-23T16:41:45Z",
   "categories": [
     "test"
   ],
   "images": [
     {
-      "id": 2003,
+      "id": 1001,
       "file_hash": "ed806211",
       "slot_index": 1,
       "is_assigned": true,
       "title": "",
-      "photographer": "",
+      "photographer": "KasWho1",
       "description": "",
       "category": "test",
       "tags": [
@@ -22,12 +22,12 @@
       "sort_order": 1
     },
     {
-      "id": 2004,
+      "id": 1002,
       "file_hash": "d3d7e2b8",
       "slot_index": 2,
       "is_assigned": true,
       "title": "",
-      "photographer": "",
+      "photographer": "KasWho2",
       "description": "",
       "category": "test",
       "tags": [
@@ -37,12 +37,12 @@
       "sort_order": 2
     },
     {
-      "id": 2005,
+      "id": 1003,
       "file_hash": "9702f017",
       "slot_index": 3,
       "is_assigned": true,
       "title": "",
-      "photographer": "",
+      "photographer": "KasWho3",
       "description": "",
       "category": "test",
       "tags": [
