@@ -1,8 +1,10 @@
 {
   "gallery_title": "FoxStudio",
   "gallery_description": "gallery for fox studio",
-  "last_updated": "2026-09-02T20:25:15Z",
-  "categories": [],
+  "last_updated": "2026-09-02T21:27:28Z",
+  "categories": [
+    "horizontal_Big"
+  ],
   "images": [
     {
       "id": 2001,
@@ -12,8 +14,10 @@
       "title": "",
       "photographer": "KasWho",
       "description": "",
-      "category": "",
-      "tags": [],
+      "category": "horizontal_Big",
+      "tags": [
+        "horizontal_big"
+      ],
       "date": "",
       "sort_order": 1
     }
