@@ -1,7 +1,21 @@
 {
   "gallery_title": "FoxStudio",
   "gallery_description": "gallery for fox studio",
-  "last_updated": "2026-09-02T20:10:40Z",
+  "last_updated": "2026-09-02T20:25:15Z",
   "categories": [],
-  "images": []
+  "images": [
+    {
+      "id": 2001,
+      "file_hash": "c69cfed8",
+      "slot_index": 1,
+      "is_assigned": true,
+      "title": "",
+      "photographer": "KasWho",
+      "description": "",
+      "category": "",
+      "tags": [],
+      "date": "",
+      "sort_order": 1
+    }
+  ]
 }
