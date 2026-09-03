@@ -1,7 +1,7 @@
 {
   "gallery_title": "FoxStudio",
   "gallery_description": "gallery for fox studio",
-  "last_updated": "2026-09-02T23:26:13Z",
+  "last_updated": "2026-09-03T22:18:31Z",
   "categories": [
     "graffity",
     "horizontal_Big",
@@ -87,6 +87,32 @@
       "tags": [],
       "date": "",
       "sort_order": 6
+    },
+    {
+      "id": 2007,
+      "file_hash": "eb6d58f0",
+      "slot_index": 7,
+      "is_assigned": true,
+      "title": "",
+      "photographer": "",
+      "description": "",
+      "category": "graffity",
+      "tags": [],
+      "date": "",
+      "sort_order": 7
+    },
+    {
+      "id": 2008,
+      "file_hash": "a9c64ec2",
+      "slot_index": 8,
+      "is_assigned": true,
+      "title": "",
+      "photographer": "",
+      "description": "",
+      "category": "graffity",
+      "tags": [],
+      "date": "",
+      "sort_order": 8
     }
   ]
 }
