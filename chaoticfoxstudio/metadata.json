@@ -1,7 +1,7 @@
 {
   "gallery_title": "FoxStudio",
   "gallery_description": "gallery for fox studio",
-  "last_updated": "2026-09-03T22:18:31Z",
+  "last_updated": "2026-09-07T22:31:59Z",
   "categories": [
     "graffity",
     "horizontal_Big",
@@ -113,6 +113,19 @@
       "tags": [],
       "date": "",
       "sort_order": 8
+    },
+    {
+      "id": 2009,
+      "file_hash": "b5a27007",
+      "slot_index": 9,
+      "is_assigned": true,
+      "title": "",
+      "photographer": "StarWeaver1683",
+      "description": "",
+      "category": "graffity",
+      "tags": [],
+      "date": "",
+      "sort_order": 9
     }
   ]
 }
