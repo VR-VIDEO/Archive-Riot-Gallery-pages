@@ -1,0 +1,51 @@
+{
+  "gallery_title": "ArchiveRiotGallery_Season01",
+  "gallery_description": "",
+  "last_updated": "2026-10-05T20:31:16Z",
+  "categories": [],
+  "images": [
+    {
+      "id": 2501,
+      "file_hash": "7207ab44",
+      "slot_index": 1,
+      "is_assigned": true,
+      "title": "",
+      "photographer": "Insane Furry Art",
+      "description": "",
+      "category": "",
+      "tags": [],
+      "date": "",
+      "sort_order": 1
+    },
+    {
+      "id": 2502,
+      "file_hash": "cf6807f1",
+      "slot_index": 2,
+      "is_assigned": true,
+      "title": "",
+      "photographer": "Kaffein8edKitty",
+      "description": "If it isn\u2019t obvious she\u2019s filling up her motorcycle with monster.  Technically it worked",
+      "category": "",
+      "tags": [
+        "Display-2"
+      ],
+      "date": "",
+      "sort_order": 2
+    },
+    {
+      "id": 2503,
+      "file_hash": "358ff46b",
+      "slot_index": 3,
+      "is_assigned": true,
+      "title": "",
+      "photographer": "Anima Animations",
+      "description": "WHO GAVE THE FOX SPRAY CHEESE\r\nit technically works its a spray can, or can spray",
+      "category": "",
+      "tags": [
+        "Display-3"
+      ],
+      "date": "",
+      "sort_order": 3
+    }
+  ]
+}
