@@ -1,4 +1,14 @@
 {
+  "season": {
+    "number": 0,
+    "status": "upcoming",
+    "prompt": "",
+    "dates": "",
+    "starts_at": "",
+    "ends_at": "",
+    "voting_enabled": true
+  },
+  "artists": [],
   "gallery_title": "FoxStudio",
   "gallery_description": "gallery for fox studio",
   "last_updated": "2026-09-08T00:21:28Z",
@@ -16,12 +26,14 @@
       "title": "",
       "photographer": "KasWho",
       "description": "",
+      "riotlink_url": "",
       "category": "horizontal_Big",
       "tags": [
         "horizontal_big"
       ],
       "date": "",
-      "sort_order": 1
+      "sort_order": 1,
+      "riotlink_slug": ""
     },
     {
       "id": 2002,
@@ -31,10 +43,12 @@
       "title": "",
       "photographer": "KasWho",
       "description": "",
+      "riotlink_url": "",
       "category": "vertical_Big",
       "tags": [],
       "date": "",
-      "sort_order": 2
+      "sort_order": 2,
+      "riotlink_slug": ""
     },
     {
       "id": 2003,
@@ -44,10 +58,12 @@
       "title": "",
       "photographer": "DiscoSnail",
       "description": "",
+      "riotlink_url": "",
       "category": "graffity",
       "tags": [],
       "date": "",
-      "sort_order": 3
+      "sort_order": 3,
+      "riotlink_slug": ""
     },
     {
       "id": 2004,
@@ -57,10 +73,12 @@
       "title": "VRChat_2026-05-09_21-55-34",
       "photographer": "",
       "description": "",
+      "riotlink_url": "",
       "category": "graffity",
       "tags": [],
       "date": "",
-      "sort_order": 4
+      "sort_order": 4,
+      "riotlink_slug": ""
     },
     {
       "id": 2005,
@@ -70,10 +88,12 @@
       "title": "VRChat_2026-05-09_21-522225-34",
       "photographer": "",
       "description": "",
+      "riotlink_url": "",
       "category": "graffity",
       "tags": [],
       "date": "",
-      "sort_order": 5
+      "sort_order": 5,
+      "riotlink_slug": ""
     },
     {
       "id": 2006,
@@ -83,10 +103,12 @@
       "title": "VRChat_2026-05-17_00-36-05.184_1920x1080",
       "photographer": "",
       "description": "",
+      "riotlink_url": "",
       "category": "graffity",
       "tags": [],
       "date": "",
-      "sort_order": 6
+      "sort_order": 6,
+      "riotlink_slug": ""
     },
     {
       "id": 2007,
@@ -96,10 +118,12 @@
       "title": "",
       "photographer": "",
       "description": "",
+      "riotlink_url": "",
       "category": "graffity",
       "tags": [],
       "date": "",
-      "sort_order": 7
+      "sort_order": 7,
+      "riotlink_slug": ""
     },
     {
       "id": 2008,
@@ -109,10 +133,12 @@
       "title": "",
       "photographer": "",
       "description": "",
+      "riotlink_url": "",
       "category": "graffity",
       "tags": [],
       "date": "",
-      "sort_order": 8
+      "sort_order": 8,
+      "riotlink_slug": ""
     },
     {
       "id": 2009,
@@ -122,10 +148,12 @@
       "title": "",
       "photographer": "StarWeaver1683",
       "description": "",
+      "riotlink_url": "",
       "category": "graffity",
       "tags": [],
       "date": "",
-      "sort_order": 9
+      "sort_order": 9,
+      "riotlink_slug": ""
     },
     {
       "id": 2010,
@@ -135,10 +163,12 @@
       "title": "",
       "photographer": "ItsgonnaRayne",
       "description": "",
+      "riotlink_url": "",
       "category": "horizontal_Big",
       "tags": [],
       "date": "",
-      "sort_order": 10
+      "sort_order": 10,
+      "riotlink_slug": ""
     },
     {
       "id": 2011,
@@ -148,10 +178,12 @@
       "title": "",
       "photographer": "ItsgonnaRayne",
       "description": "",
+      "riotlink_url": "",
       "category": "horizontal_Big",
       "tags": [],
       "date": "",
-      "sort_order": 11
+      "sort_order": 11,
+      "riotlink_slug": ""
     },
     {
       "id": 2012,
@@ -161,10 +193,12 @@
       "title": "",
       "photographer": "AnimaAnimatios",
       "description": "",
+      "riotlink_url": "",
       "category": "horizontal_Big",
       "tags": [],
       "date": "",
-      "sort_order": 12
+      "sort_order": 12,
+      "riotlink_slug": ""
     },
     {
       "id": 2013,
@@ -174,10 +208,12 @@
       "title": "",
       "photographer": "BeetleNeedleArts",
       "description": "",
+      "riotlink_url": "",
       "category": "vertical_Big",
       "tags": [],
       "date": "",
-      "sort_order": 13
+      "sort_order": 13,
+      "riotlink_slug": ""
     },
     {
       "id": 2014,
@@ -187,10 +223,12 @@
       "title": "",
       "photographer": "BeetleNeedleArts",
       "description": "",
+      "riotlink_url": "",
       "category": "vertical_Big",
       "tags": [],
       "date": "",
-      "sort_order": 14
+      "sort_order": 14,
+      "riotlink_slug": ""
     },
     {
       "id": 2015,
@@ -200,10 +238,12 @@
       "title": "",
       "photographer": "BeetleNeedleArts",
       "description": "",
+      "riotlink_url": "",
       "category": "vertical_Big",
       "tags": [],
       "date": "",
-      "sort_order": 15
+      "sort_order": 15,
+      "riotlink_slug": ""
     },
     {
       "id": 2016,
@@ -213,10 +253,12 @@
       "title": "",
       "photographer": "Marblezz",
       "description": "",
+      "riotlink_url": "",
       "category": "vertical_Big",
       "tags": [],
       "date": "",
-      "sort_order": 16
+      "sort_order": 16,
+      "riotlink_slug": ""
     },
     {
       "id": 2017,
@@ -226,10 +268,12 @@
       "title": "",
       "photographer": "Insane Furry Art",
       "description": "",
+      "riotlink_url": "",
       "category": "vertical_Big",
       "tags": [],
       "date": "",
-      "sort_order": 17
+      "sort_order": 17,
+      "riotlink_slug": ""
     },
     {
       "id": 2018,
@@ -239,10 +283,12 @@
       "title": "",
       "photographer": "Insane Furry Art",
       "description": "",
+      "riotlink_url": "",
       "category": "horizontal_Big",
       "tags": [],
       "date": "",
-      "sort_order": 18
+      "sort_order": 18,
+      "riotlink_slug": ""
     },
     {
       "id": 2019,
@@ -252,10 +298,12 @@
       "title": "",
       "photographer": "Insane Furry Art",
       "description": "",
+      "riotlink_url": "",
       "category": "vertical_Big",
       "tags": [],
       "date": "",
-      "sort_order": 19
+      "sort_order": 19,
+      "riotlink_slug": ""
     },
     {
       "id": 2020,
@@ -265,10 +313,12 @@
       "title": "",
       "photographer": "Insane Furry Art",
       "description": "",
+      "riotlink_url": "",
       "category": "vertical_Big",
       "tags": [],
       "date": "",
-      "sort_order": 20
+      "sort_order": 20,
+      "riotlink_slug": ""
     },
     {
       "id": 2021,
@@ -278,10 +328,12 @@
       "title": "",
       "photographer": "Insane Furry Art",
       "description": "",
+      "riotlink_url": "",
       "category": "vertical_Big",
       "tags": [],
       "date": "",
-      "sort_order": 21
+      "sort_order": 21,
+      "riotlink_slug": ""
     },
     {
       "id": 2022,
@@ -291,10 +343,12 @@
       "title": "",
       "photographer": "Insane Furry Art",
       "description": "",
+      "riotlink_url": "",
       "category": "horizontal_Big",
       "tags": [],
       "date": "",
-      "sort_order": 22
+      "sort_order": 22,
+      "riotlink_slug": ""
     },
     {
       "id": 2023,
@@ -304,10 +358,12 @@
       "title": "",
       "photographer": "Jasmine Vazquez Starbuck",
       "description": "",
+      "riotlink_url": "",
       "category": "horizontal_Big",
       "tags": [],
       "date": "",
-      "sort_order": 23
+      "sort_order": 23,
+      "riotlink_slug": ""
     },
     {
       "id": 2024,
@@ -317,10 +373,12 @@
       "title": "",
       "photographer": "Jasmine Vazquez Starbuck",
       "description": "",
+      "riotlink_url": "",
       "category": "horizontal_Big",
       "tags": [],
       "date": "",
-      "sort_order": 24
+      "sort_order": 24,
+      "riotlink_slug": ""
     },
     {
       "id": 2025,
@@ -330,10 +388,12 @@
       "title": "",
       "photographer": "KasWho",
       "description": "",
+      "riotlink_url": "",
       "category": "horizontal_Big",
       "tags": [],
       "date": "",
-      "sort_order": 25
+      "sort_order": 25,
+      "riotlink_slug": ""
     },
     {
       "id": 2026,
@@ -343,10 +403,12 @@
       "title": "",
       "photographer": "KasWho",
       "description": "",
+      "riotlink_url": "",
       "category": "horizontal_Big",
       "tags": [],
       "date": "",
-      "sort_order": 26
+      "sort_order": 26,
+      "riotlink_slug": ""
     },
     {
       "id": 2027,
@@ -356,10 +418,12 @@
       "title": "",
       "photographer": "KasWho",
       "description": "",
+      "riotlink_url": "",
       "category": "horizontal_Big",
       "tags": [],
       "date": "",
-      "sort_order": 27
+      "sort_order": 27,
+      "riotlink_slug": ""
     },
     {
       "id": 2028,
@@ -369,10 +433,12 @@
       "title": "",
       "photographer": "DiscoSnail",
       "description": "",
+      "riotlink_url": "",
       "category": "vertical_Big",
       "tags": [],
       "date": "",
-      "sort_order": 28
+      "sort_order": 28,
+      "riotlink_slug": ""
     },
     {
       "id": 2029,
@@ -382,10 +448,12 @@
       "title": "",
       "photographer": "DiscoSnail",
       "description": "",
+      "riotlink_url": "",
       "category": "horizontal_Big",
       "tags": [],
       "date": "",
-      "sort_order": 29
+      "sort_order": 29,
+      "riotlink_slug": ""
     },
     {
       "id": 2030,
@@ -395,10 +463,12 @@
       "title": "",
       "photographer": "Lesya DA",
       "description": "",
+      "riotlink_url": "",
       "category": "horizontal_Big",
       "tags": [],
       "date": "",
-      "sort_order": 30
+      "sort_order": 30,
+      "riotlink_slug": ""
     },
     {
       "id": 2031,
@@ -408,10 +478,12 @@
       "title": "",
       "photographer": "Nevari",
       "description": "",
+      "riotlink_url": "",
       "category": "horizontal_Big",
       "tags": [],
       "date": "",
-      "sort_order": 31
+      "sort_order": 31,
+      "riotlink_slug": ""
     },
     {
       "id": 2032,
@@ -421,10 +493,12 @@
       "title": "",
       "photographer": "Russel Mesa",
       "description": "",
+      "riotlink_url": "",
       "category": "vertical_Big",
       "tags": [],
       "date": "",
-      "sort_order": 32
+      "sort_order": 32,
+      "riotlink_slug": ""
     },
     {
       "id": 2033,
@@ -434,10 +508,12 @@
       "title": "",
       "photographer": "TommyGun",
       "description": "",
+      "riotlink_url": "",
       "category": "vertical_Big",
       "tags": [],
       "date": "",
-      "sort_order": 33
+      "sort_order": 33,
+      "riotlink_slug": ""
     },
     {
       "id": 2034,
@@ -447,10 +523,12 @@
       "title": "",
       "photographer": "TommyGun",
       "description": "",
+      "riotlink_url": "",
       "category": "horizontal_Big",
       "tags": [],
       "date": "",
-      "sort_order": 34
+      "sort_order": 34,
+      "riotlink_slug": ""
     },
     {
       "id": 2035,
@@ -460,10 +538,12 @@
       "title": "",
       "photographer": "Rikku Vattic",
       "description": "",
+      "riotlink_url": "",
       "category": "horizontal_Big",
       "tags": [],
       "date": "",
-      "sort_order": 35
+      "sort_order": 35,
+      "riotlink_slug": ""
     },
     {
       "id": 2036,
@@ -473,10 +553,12 @@
       "title": "",
       "photographer": "Rikku Vattic",
       "description": "",
+      "riotlink_url": "",
       "category": "horizontal_Big",
       "tags": [],
       "date": "",
-      "sort_order": 36
+      "sort_order": 36,
+      "riotlink_slug": ""
     },
     {
       "id": 2037,
@@ -486,10 +568,12 @@
       "title": "",
       "photographer": "https://vrchat.com/home/avatar/avtr_e68dae26-d382-41cc-8c67-64df3e045165",
       "description": "",
+      "riotlink_url": "",
       "category": "horizontal_Big",
       "tags": [],
       "date": "",
-      "sort_order": 37
+      "sort_order": 37,
+      "riotlink_slug": ""
     },
     {
       "id": 2038,
@@ -499,10 +583,12 @@
       "title": "",
       "photographer": "Worthless",
       "description": "",
+      "riotlink_url": "",
       "category": "vertical_Big",
       "tags": [],
       "date": "",
-      "sort_order": 38
+      "sort_order": 38,
+      "riotlink_slug": ""
     }
   ]
 }

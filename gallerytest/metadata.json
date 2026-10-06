@@ -1,4 +1,14 @@
 {
+  "season": {
+    "number": 0,
+    "status": "upcoming",
+    "prompt": "",
+    "dates": "",
+    "starts_at": "",
+    "ends_at": "",
+    "voting_enabled": true
+  },
+  "artists": [],
   "gallery_title": "GAllery riot",
   "gallery_description": "",
   "last_updated": "2026-08-23T20:22:58Z",
@@ -14,12 +24,14 @@
       "title": "",
       "photographer": "KasWho1",
       "description": "",
+      "riotlink_url": "",
       "category": "test",
       "tags": [
         "Display-1"
       ],
       "date": "",
-      "sort_order": 1
+      "sort_order": 1,
+      "riotlink_slug": ""
     },
     {
       "id": 1002,
@@ -29,12 +41,14 @@
       "title": "",
       "photographer": "Anima",
       "description": "",
+      "riotlink_url": "",
       "category": "",
       "tags": [
         "Display-2"
       ],
       "date": "",
-      "sort_order": 2
+      "sort_order": 2,
+      "riotlink_slug": ""
     },
     {
       "id": 1003,
@@ -44,12 +58,14 @@
       "title": "",
       "photographer": "BeetleNeedleArts",
       "description": "",
+      "riotlink_url": "",
       "category": "",
       "tags": [
         "Display-3"
       ],
       "date": "",
-      "sort_order": 3
+      "sort_order": 3,
+      "riotlink_slug": ""
     },
     {
       "id": 1004,
@@ -59,12 +75,14 @@
       "title": "",
       "photographer": "Insane Furry Art",
       "description": "",
+      "riotlink_url": "",
       "category": "",
       "tags": [
         "Display-4"
       ],
       "date": "",
-      "sort_order": 4
+      "sort_order": 4,
+      "riotlink_slug": ""
     },
     {
       "id": 1005,
@@ -74,12 +92,14 @@
       "title": "",
       "photographer": "Jasmine Vazquez Starbuck",
       "description": "",
+      "riotlink_url": "",
       "category": "",
       "tags": [
         "Display-5"
       ],
       "date": "",
-      "sort_order": 5
+      "sort_order": 5,
+      "riotlink_slug": ""
     },
     {
       "id": 1006,
@@ -89,12 +109,14 @@
       "title": "",
       "photographer": "Disco Snail",
       "description": "",
+      "riotlink_url": "",
       "category": "",
       "tags": [
         "Display-6"
       ],
       "date": "",
-      "sort_order": 6
+      "sort_order": 6,
+      "riotlink_slug": ""
     },
     {
       "id": 1007,
@@ -104,12 +126,14 @@
       "title": "",
       "photographer": "Lesya DA",
       "description": "",
+      "riotlink_url": "",
       "category": "",
       "tags": [
         "Display-7"
       ],
       "date": "",
-      "sort_order": 7
+      "sort_order": 7,
+      "riotlink_slug": ""
     },
     {
       "id": 1008,
@@ -119,12 +143,14 @@
       "title": "",
       "photographer": "TommyGun",
       "description": "",
+      "riotlink_url": "",
       "category": "",
       "tags": [
         "Display-8"
       ],
       "date": "",
-      "sort_order": 8
+      "sort_order": 8,
+      "riotlink_slug": ""
     },
     {
       "id": 1009,
@@ -134,12 +160,14 @@
       "title": "",
       "photographer": "Rikku Vattic",
       "description": "",
+      "riotlink_url": "",
       "category": "",
       "tags": [
         "Display-9"
       ],
       "date": "",
-      "sort_order": 9
+      "sort_order": 9,
+      "riotlink_slug": ""
     },
     {
       "id": 1010,
@@ -149,12 +177,14 @@
       "title": "",
       "photographer": "Worthless",
       "description": "",
+      "riotlink_url": "",
       "category": "",
       "tags": [
         "Display-10"
       ],
       "date": "",
-      "sort_order": 10
+      "sort_order": 10,
+      "riotlink_slug": ""
     }
   ]
 }
